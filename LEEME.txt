@@ -1,0 +1,21 @@
+SISTEMA VENTA DIRECTA 100%
+
+ENLACE DE PAGO CONFIGURADO:
+https://pay.hotmart.com/T106688503E?off=v7qrqp2q&checkoutMode=10
+
+PRECIO:
+- Precio regular: $87 USD
+- Oferta especial: $29.99 USD
+
+CARACTERÍSTICAS:
+- Diseño premium negro y dorado.
+- Todos los botones conectados a Hotmart.
+- Bloque interactivo del programa con navegación lateral.
+- Secciones de problema, solución, beneficios, programa, incluye, creador, oferta y FAQ.
+- Versión responsive para escritorio, tablet y celular.
+- HTML independiente y versión web con carpeta assets.
+
+ARCHIVOS:
+- index.html
+- sistema_venta_directa_100_landing_independiente.html
+- assets/
